@@ -22,9 +22,9 @@ After this the English and German sentences are separated, tokenized and padded.
 
 The final train, val and test data sizes are as follows:
 
-* Item Train_size: 108300
-Val_size: 5700
-Test_size: 6000
+* Train_size: 108300
+* Val_size: 5700
+* Test_size: 6000
 
 ## Translation Models
 
