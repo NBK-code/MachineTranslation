@@ -14,7 +14,7 @@ This data obviously needs to be cleaned. After cleaning, the same data is now
 
 1. Go.	Geh.
 2. Hi.	Hallo!
-3. Call me.	Ruf mich an.
+3. Get away!	Hau ab!
 4. Run!	Lauf!
 5. I prayed.	Ich betete.
 
