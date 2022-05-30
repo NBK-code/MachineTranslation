@@ -53,6 +53,10 @@ The transformer model architecture used for English to German machine translatio
 
 A sample of final model performance on the test data is given below:
 
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 The input English sentence is: i'll do as you say . 
 
