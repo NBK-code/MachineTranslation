@@ -54,7 +54,7 @@ The transformer model architecture used for English to German machine translatio
 A sample of final model performance on the test data is given below:
 
 | Input English sentence | German translation by our model | Google Translate of the model German translation |
-| --- | ----------- | ----------- |
+| ---------- | ----------- | ----------- |
 | i'll do as you say. | ich werde tun , was du sagst. | i will do what you say. |
 | tom lives with his parents. | tom wohnt bei seinen eltern. | tom lives with his parents. |
 | i'm responsible for that. | ich bin dafuer verantwortlich. | i am responsible for it. |
