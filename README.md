@@ -33,3 +33,10 @@ Two machine translation models were built:
 1. A Recurrent Neural Network model (LSTMs)
 2. A Transformer model
 
+### RNN Model
+
+The RNN model architecture used for English to German machine translation is displayed below.
+![alt text](https://github.com/NBK-code/MachineTranslation/blob/main/Images_RNN_Transformer_Models/neural_translation_model_and_key.png?raw=true)
+
+### Transformer Model
+
