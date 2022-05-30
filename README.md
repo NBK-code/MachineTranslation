@@ -6,7 +6,7 @@ We use the Anki deu-eng language dataset from http://www.manythings.org/anki/. T
 
 1. Go.	Geh.	CC-BY 2.0 (France) Attribution: tatoeba.org #2877272 (CM) & #8597805 (Roujin)
 2. Hi.	Hallo!	CC-BY 2.0 (France) Attribution: tatoeba.org #538123 (CM) & #380701 (cburgmer)
-3. Call me.	Ruf mich an.	CC-BY 2.0 (France) Attribution: tatoeba.org #1553532 (CK) & #1688178 (Pfirsichbaeumchen)
+3. Get away!	Hau ab!	CC-BY 2.0 (France) Attribution: tatoeba.org #240634 (CM) & #662285 (stefz)
 4. Run!	Lauf!	CC-BY 2.0 (France) Attribution: tatoeba.org #906328 (papabear) & #941078 (Fingerhut)
 5. I prayed.	Ich betete.	CC-BY 2.0 (France) Attribution: tatoeba.org #5828637 (CK) & #4781455 (Tamy)
 
