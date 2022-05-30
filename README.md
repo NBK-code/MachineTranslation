@@ -42,3 +42,8 @@ The RNN model architecture used for English to German machine translation is dis
 
 ### Transformer Model
 
+The transformer model architecture used for English to German machine translation is displayed below.
+
+
+![alt text](https://github.com/NBK-code/MachineTranslation/blob/main/Images_RNN_Transformer_Models/transformer.png?raw=true)
+
