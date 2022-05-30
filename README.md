@@ -55,8 +55,10 @@ A sample of final model performance on the test data is given below:
 
 | Input English sentence | German translation by our model | Google Translate of the model German translation |
 | --- | ----------- | ----------- |
-| i'll do as you say. | ich werde tun , was du sagst. | |
-| tom lives with his parents. | tom wohnt bei seinen eltern. | |
-| i'm responsible for that. | ich bin dafuer verantwortlich. | |
-| there are too many choices. | es gibt zu viele dass viele zu viele moeglichkeiten. | |
-| i live in this house by myself. | ich wohne selbst in diesem haus. | |
+| i'll do as you say. | ich werde tun , was du sagst. | i will do what you say. |
+| tom lives with his parents. | tom wohnt bei seinen eltern. | tom lives with his parents. |
+| i'm responsible for that. | ich bin dafuer verantwortlich. | i am responsible for it. |
+| there are too many choices. | es gibt zu viele dass viele zu viele moeglichkeiten. | there are too many that many too many possibilities. |
+| i live in this house by myself. | ich wohne selbst in diesem haus. | i live in this house myself. |
+
+Some of the German translation provided by the model differed from what was given in the test data. So Google Translate was used to translate the model output back to English to verify the performance. From the table, it is clear that the model has succesfully learnt the translation. 
