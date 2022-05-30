@@ -40,6 +40,9 @@ The RNN model architecture used for English to German machine translation is dis
 
 ![alt text](https://github.com/NBK-code/MachineTranslation/blob/main/Images_RNN_Transformer_Models/neural_translation_model_and_key.png?raw=true)
 
+
+To spped up training a pre-trained English word embedding module from TensorFlow Hub was used. The module is available at https://tfhub.dev/google/tf2-preview/nnlm-en-dim128-with-normalization/1.
+
 ### Transformer Model
 
 The transformer model architecture used for English to German machine translation is displayed below.
