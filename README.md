@@ -57,46 +57,6 @@ A sample of final model performance on the test data is given below:
 | --- | ----------- | ----------- |
 | i'll do as you say. | ich werde tun , was du sagst. | |
 | tom lives with his parents. | tom wohnt bei seinen eltern. | |
-
-The input English sentence is: i'll do as you say . 
-
-The expected German translation: ich werde es so machen , wie du gesagt hast . 
-
-German translation by our model: ich werde tun , was du sagst . 
-
-
-
-
-The input English sentence is: tom lives with his parents . 
-
-The expected German translation: tom wohnt mit seinen eltern zusammen . 
-
-German translation by our model: tom wohnt bei seinen eltern . 
-
-
-
-
-The input English sentence is: i'm responsible for that . 
-
-The expected German translation: ich bin dafuer verantwortlich . 
-
-German translation by our model: ich bin dafuer verantwortlich . 
-
-
-
-
-The input English sentence is: there are too many choices . 
-
-The expected German translation: es gibt zu viele optionen . 
-
-German translation by our model: es gibt zu viele dass viele zu viele moeglichkeiten . 
-
-
-
-
-The input English sentence is: i live in this house by myself . 
-
-The expected German translation: ich lebe alleine in diesem haus . 
-
-German translation by our model: ich wohne selbst in diesem haus . 
-
+| i'm responsible for that. | ich bin dafuer verantwortlich. | |
+| there are too many choices. | es gibt zu viele dass viele zu viele moeglichkeiten. | |
+| i live in this house by myself. | ich wohne selbst in diesem haus. | |
