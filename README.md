@@ -61,4 +61,4 @@ A sample of final model performance on the test data is given below:
 | there are too many choices. | es gibt zu viele dass viele zu viele moeglichkeiten. | there are too many that many too many possibilities. |
 | i live in this house by myself. | ich wohne selbst in diesem haus. | i live in this house myself. |
 
-Some of the German translation provided by the model differed from what was given in the test data. So Google Translate was used to translate the model output back to English to verify the performance. From the table, it is clear that the model has succesfully learnt the translation. 
+Some of the German translation provided by the model differed from what was given in the test data. So Google Translate was used to translate the model output back to English to verify the performance. From the table, it is clear that the model has succesfully learnt English to German translation. 
