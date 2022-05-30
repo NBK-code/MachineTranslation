@@ -53,7 +53,7 @@ The transformer model architecture used for English to German machine translatio
 
 A sample of final model performance on the test data is given below:
 
-1
+
 The input English sentence is: i'll do as you say . 
 
 The expected German translation: ich werde es so machen , wie du gesagt hast . 
@@ -62,7 +62,7 @@ German translation by our model: ich werde tun , was du sagst .
 
 
 
-2
+
 The input English sentence is: tom lives with his parents . 
 
 The expected German translation: tom wohnt mit seinen eltern zusammen . 
@@ -71,7 +71,7 @@ German translation by our model: tom wohnt bei seinen eltern .
 
 
 
-3
+
 The input English sentence is: i'm responsible for that . 
 
 The expected German translation: ich bin dafuer verantwortlich . 
@@ -80,7 +80,7 @@ German translation by our model: ich bin dafuer verantwortlich .
 
 
 
-4
+
 The input English sentence is: there are too many choices . 
 
 The expected German translation: es gibt zu viele optionen . 
@@ -89,7 +89,7 @@ German translation by our model: es gibt zu viele dass viele zu viele moeglichke
 
 
 
-5
+
 The input English sentence is: i live in this house by myself . 
 
 The expected German translation: ich lebe alleine in diesem haus . 
